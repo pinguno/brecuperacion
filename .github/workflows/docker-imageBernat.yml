@@ -25,4 +25,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: r4f4hc8/imagen3 , r4f4hc8/imagen3:${{github.event.pull_request.title}}
+          tags: r4f4hc8/imagen3:latest , r4f4hc8/imagen3:${{github.event.pull_request.title}}
