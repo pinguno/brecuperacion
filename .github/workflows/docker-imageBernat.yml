@@ -26,3 +26,6 @@ jobs:
         with:
           push: true
           tags: r4f4hc8/imagen3:latest , pinguno/bernatEjercicio:${{github.event.pull_request.title}}
+
+
+          
