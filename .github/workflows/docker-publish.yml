@@ -28,7 +28,4 @@ jobs:
           tags: r4f4hc8/imagen3recuperacion:latest , pinguno/brecuperacion:${{github.event.pull_request.title}}
 
 
-          
-
-
 
